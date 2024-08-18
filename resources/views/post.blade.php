@@ -1,4 +1,4 @@
-@extends('layout')
+@extends('pastel-layout')
 
 @section('content')
     <h2>{{ $post }}</h2>
